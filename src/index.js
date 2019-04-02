@@ -1,6 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import 'antd/dist/antd.min.css';
+import 'font-awesome/css/font-awesome.css';
+import 'antd/dist/antd';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 

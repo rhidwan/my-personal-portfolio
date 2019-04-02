@@ -3,9 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "antd": "^3.15.2",
+    "cross-fetch": "^3.0.2",
+    "font-awesome": "^4.7.0",
     "react": "^16.8.5",
+    "react-animation-components": "^3.0.0",
     "react-dom": "^16.8.5",
-    "react-scripts": "2.1.8"
+    "react-fa": "^5.0.0",
+    "react-redux": "^5.0.7",
+    "react-redux-form": "^1.16.8",
+    "react-responsive": "^6.1.1",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "react-transition-group": "^2.7.1",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
